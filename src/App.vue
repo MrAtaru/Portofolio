@@ -1,5 +1,4 @@
 <script setup>
-import Navbar from './components/Navbar.vue';
 import Portofolio from './components/Portofolio.vue';
 import About from './components/About.vue';
 import Contact from './components/Contact.vue';
