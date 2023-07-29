@@ -76,7 +76,7 @@ export default {
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/foto2.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial5.jpg" alt="" />
             </div>
             <div>
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial1.jpg" alt="" />
@@ -98,7 +98,7 @@ export default {
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial3.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/foto2.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial5.jpg" alt="" />
             </div>
             <div>
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
