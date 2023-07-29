@@ -145,7 +145,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue';
         <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br><br>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span class="block text-xs text-gray-500 sm:text-center dark:text-gray-400"
-          >© Copyright <a href="https://flowbite.com/" class="hover:underline"></a>All Rights Reserved.</span
+          >© Copyright All Rights Reserved.</span
         >
       </div>
     </aside>

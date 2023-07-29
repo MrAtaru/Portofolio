@@ -64,17 +64,6 @@ import Navbar from "./Navbar.vue";
 </template>
 
 <style scoped>
-.nama {
-  font-family: "Poppins Bold", sans-serif;
-  font-size: 30px;
-  font-weight: bold;
-  color: #000000;
-  text-decoration: none;
-  display: inline-block;
-  margin-bottom: 0px;
-  max-width: 100%;
-  display: block;
-}
 .foto {
   width: auto;
   height: 100%;

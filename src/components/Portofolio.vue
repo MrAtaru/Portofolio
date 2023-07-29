@@ -378,17 +378,7 @@ export default {
   outline: none;
   box-shadow: 0 0 0 3px rgba(63, 81, 181, 0.4); /* Add an indigo border on focus for next button */
 }
-.nama {
-  font-family: "Poppins Bold", sans-serif;
-  font-size: 30px;
-  font-weight: bold;
-  color: #000000;
-  text-decoration: none;
-  display: inline-block;
-  margin-bottom: 0px;
-  max-width: 100%;
-  display: block;
-}
+
 .foto {
   width: auto;
   height: 100%;
