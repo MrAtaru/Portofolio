@@ -61,10 +61,10 @@ export default {
             <br /><br />
           </div>
         </div>
-        <div class="foto grid grid-cols-2 md:grid-cols-1 gap-10">
+        <div class="grid grid-cols-2 md:grid-cols-1 gap-10">
           <div class="grid gap-3">
             <div>
-              <h1 class="text-center mb-4 text-2xl tracking-tight leading-none text-gray-900 dark:text-white">Foto Gallery</h1>
+              <h1 class="foto text-center mb-4 text-2xl tracking-tight leading-none text-gray-900 dark:text-white">Foto Gallery</h1>
             </div>
             <br />
           </div>
@@ -76,7 +76,7 @@ export default {
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="rx-78-02_2.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/rx-78-02_2.jpg" alt="" />
             </div>
             <div>
               <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial1.jpg" alt="" />
@@ -95,13 +95,13 @@ export default {
           </div>
           <div class="grid gap-3">
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="aerial3.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial3.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="rx-78-02_2.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/rx-78-02_2.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="aerial4.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
             </div>
           </div>
         </div>
