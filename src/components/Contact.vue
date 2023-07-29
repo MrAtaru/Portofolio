@@ -125,13 +125,5 @@
 <script setup>
 import Navbar from "./Navbar.vue";
 
-let name = "";
-let email = "";
-let message = "";
 
-function submitForm() {
-  console.log("Name:", this.name);
-  console.log("Email:", this.email);
-  console.log("Message:", this.message);
-}
 </script>
