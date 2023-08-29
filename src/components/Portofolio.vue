@@ -1,5 +1,4 @@
 <script setup>
-import Navbar from "./Navbar.vue";
 </script>
 
 <script>
@@ -42,7 +41,6 @@ export default {
 
 <template>
   <div>
-    <Navbar />
   </div>
   <div>
     <section
@@ -73,35 +71,35 @@ export default {
         <div class="foto grid grid-cols-2 md:grid-cols-3 gap-10">
           <div class="grid gap-3">
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial4.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial5.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial5.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial1.jpg" alt="" />
-            </div>
-          </div>
-          <div class="grid gap-3">
-            <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/rx1.jpg" alt="" />
-            </div>
-            <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/redAstray3.jpg" alt="" />
-            </div>
-            <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/rx1.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial1.jpg" alt="" />
             </div>
           </div>
           <div class="grid gap-3">
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial3.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/rx1.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial5.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/redAstray3.jpg" alt="" />
             </div>
             <div>
-              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/aerial4.jpg" alt="" />
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/public/rx1.jpg" alt="" />
+            </div>
+          </div>
+          <div class="grid gap-3">
+            <div>
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial3.jpg" alt="" />
+            </div>
+            <div>
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial5.jpg" alt="" />
+              </div>
+            <div>
+              <img class="h-auto max-w-xs mx-auto rounded-lg" src="/aerial4.jpg" alt="" />
             </div>
           </div>
         </div>
